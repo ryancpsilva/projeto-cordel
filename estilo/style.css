@@ -55,6 +55,7 @@ section.imagem{
     background-color: rgb(36, 36, 36);
 }
 section.imagem > p{
+    margin-right: 30px;
     max-width: 400px;
     min-width: 200px;
     background-color: rgba(0, 0, 0, 0.418);
