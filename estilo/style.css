@@ -61,14 +61,15 @@ section.imagem > p{
     background-color: rgba(0, 0, 0, 0.418);
 }
 section#img01{
+    background-position: right center;
     background-image: url(../imagens/background001.jpg);
     background-attachment: fixed;
-    background-size: cover;
+    background-size: 100% 100%;
 }
 section#img02{
     background-image: url(../imagens/background002.jpg);
     background-attachment: fixed;
-    background-size: cover;
+    background-size: 100% 100%;
 }
 p{
     font-family: var(--fonte03);
