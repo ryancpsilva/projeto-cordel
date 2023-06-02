@@ -46,12 +46,14 @@ section{
 }
 section > p{
     font-family: var(--fonte03);
+    padding-bottom: 1em;
 }
 section.normal{
     color: black;
     background-color: white;
 }
 section.imagem{
+    box-shadow: inset 0px 0px 30px 15px rgba(0, 0, 0, 0.555);
     color: white;
     background-color: rgb(36, 36, 36);
 }
